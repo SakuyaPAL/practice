@@ -1,3 +1,2 @@
 # practice
-For practicing
-GoGoGo SakuyaPAL
+For programming practice
